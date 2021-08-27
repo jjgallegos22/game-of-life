@@ -1,7 +1,8 @@
 # Getting Started
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 This project demonstrates a crude implementation of Conway's Game of Life using ReactJS.
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
